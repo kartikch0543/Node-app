@@ -1,2 +1,8 @@
 node_modules/
 dist/
+git init
+git checkout -b main
+git remote add origin https://github.com/kartikch0543/Node-app
+git add .
+git commit -m "wirte dockerfile"
+git push -u origin main
